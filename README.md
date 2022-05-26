@@ -1,2 +1,2 @@
 # mri-imaging-processing-pipeline
-A multimodal MRI preprocessing pipeline
+A multi-modal, multi-architecture MRI preprocessing pipeline
